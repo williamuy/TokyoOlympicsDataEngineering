@@ -14,8 +14,8 @@ This project was focused on using the Azure workspace, rather than the data itse
 - **Data Pipelines:** End to end data pipelines where I ingest the data -> Store -> Transform -> Store -> Analyze -> Visualize 
 ## Repository Contents
 
-- `datasets/` - Contains the raw datasets used in the project.
-- `scripts/` - Scripts used for data transformation and cleaning and SQL queries.
+- `data/` - Contains the raw datasets used in the project.
+- `cleansing/` - Scripts used for data transformation and cleaning and SQL queries.
 
 ## Dashboard
 
