@@ -11,7 +11,7 @@ This project was focused on using the Azure workspace, rather than the data itse
 - **Datasets Used:** [2021 Olympics In Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 - **Data Transformation:** The code and methodologies applied to clean and transform the raw data into a structured format.
 - **Data Extraction:** SQL queries developed to extract meaningful insights from the transformed data.
-- **Data Pipelines:** End to end data pipelines where I ingest the data -> Store -> Transform -> Store -> Analyze -> Visualize 
+- **Data Pipelines:** End to end data pipelines where I: Ingest Data -> Store -> Transform -> Store -> Analyze -> Visualize 
 ## Repository Contents
 
 - `data/` - Contains the raw datasets used in the project.
